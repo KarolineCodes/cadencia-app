@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Cadência",
+    "slug": "cadencia-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "cadencia",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": { "supportsTablet": true },
+    "android": {
+      "package": "app.cadencia",
+      "edgeToEdgeEnabled": true
+    },
+    "plugins": ["expo-router", "expo-secure-store"]
+  }
+}
