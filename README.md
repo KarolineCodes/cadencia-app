@@ -6,10 +6,17 @@ responde no toque e sobe em lote.
 React Native com Expo. Consome a API do
 [Cadência](https://github.com/KarolNutty/cadencia).
 
-![A sessão de estudo](docs/imagens/estudar.png)
+<p align="center">
+  <img src="docs/imagens/estudar.png" width="280" alt="A sessão de estudo" />
+  &nbsp;&nbsp;
+  <img src="docs/imagens/abas.png" width="280" alt="As quatro seções" />
+  &nbsp;&nbsp;
+  <img src="docs/imagens/conversa.png" width="280" alt="Prática de conversação" />
+</p>
 
-> A carta, o verso revelado e os quatro botões de avaliação. O intervalo até a
-> próxima revisão é calculado no aparelho, pelo mesmo módulo que o servidor usa.
+> A carta com o verso revelado, as quatro seções, e a conversação com correção.
+> O intervalo até a próxima revisão é calculado no aparelho, pelo mesmo módulo
+> que o servidor usa.
 
 ```bash
 npm install
@@ -76,8 +83,6 @@ foi feita nos dois lados.
 
 ### Abas embaixo, e quatro delas
 
-![As quatro seções](docs/imagens/abas.png)
-
 
 O polegar alcança o rodapé sem trocar a mão de posição, e o topo de um celular
 grande não. Numa gaveta lateral, cada troca de seção custa dois toques em vez de
@@ -110,8 +115,6 @@ não do fundo, e o nome engana: `dark` significa ícones escuros, para usar sobr
 fundo claro.
 
 ### Conversação com correção
-
-![Prática de conversação](docs/imagens/conversa.png)
 
 A correção fica presa à fala que a gerou, e fora do fio da conversa: um parceiro
 que corrige dentro da resposta quebra o assunto e para de conversar.
